@@ -1,5 +1,8 @@
 # CPP module 00
 
+Namespaces, classes, member functions, stdio streams, \
+initialization lists, static, const and some other basic stuff.
+
 ## Subject
 
 <img src="./misc/en.subject-01.png" alt="subj_01" width="700"/>

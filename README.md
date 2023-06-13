@@ -1,7 +1,9 @@
 # CPP_module
 Introduction to the c++ programming language.
 
-- [module 00](./module_00)
+- [module 00](./module_00) \
+  Namespaces, classes, member functions, stdio streams, \
+  initialization lists, static, const and some other basic stuff.
 - [module 01](./module_01)
 - [module 02](./module_02)
 - [module 03](./module_03)
