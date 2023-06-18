@@ -1,5 +1,7 @@
 # CPP module 01
 
+Memory allocation, pointers to members, references, switch statement. 
+
 ## Subject
 
 <img src="./misc/en.subject-01.png" alt="subj_01" width="700"/>
