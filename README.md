@@ -20,5 +20,6 @@ Introduction to the c++ programming language.
   C++ casts.
 - [module 07](./module_07) \
   C++ templates.
-- [module 08](./module_08)
+- [module 08](./module_08) \
+  Templated containers, iterators, alghorithms.
 
