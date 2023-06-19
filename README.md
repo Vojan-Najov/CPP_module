@@ -18,6 +18,7 @@ Introduction to the c++ programming language.
   Repetition and exceptions.
 - [module 06](./module_06) \
   C++ casts.
-- [module 07](./module_07)
+- [module 07](./module_07) \
+  C++ templates.
 - [module 08](./module_08)
 
