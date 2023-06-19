@@ -1,5 +1,7 @@
 # CPP module 06
 
+C++ casts.
+
 ## Subject
 
 <img src="./misc/en.subject-01.png" alt="subj_01" width="700"/>

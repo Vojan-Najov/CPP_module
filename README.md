@@ -16,7 +16,8 @@ Introduction to the c++ programming language.
   Subtype polymorphism, abstract classes, interfaces.
 - [module 05](./module_05) \
   Repetition and exceptions.
-- [module 06](./module_06)
+- [module 06](./module_06) \
+  C++ casts.
 - [module 07](./module_07)
 - [module 08](./module_08)
 
