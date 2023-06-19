@@ -14,7 +14,8 @@ Introduction to the c++ programming language.
   Inheritance.
 - [module 04](./module_04) \
   Subtype polymorphism, abstract classes, interfaces.
-- [module 05](./module_05)
+- [module 05](./module_05) \
+  Repetition and exceptions.
 - [module 06](./module_06)
 - [module 07](./module_07)
 - [module 08](./module_08)
