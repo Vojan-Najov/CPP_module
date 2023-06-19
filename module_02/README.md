@@ -1,5 +1,8 @@
 # CPP module 02
 
+Ad-hoc polymorphism, operator overloading \
+and Orthoox Canonical class form.
+
 ## Subject
 
 <img src="./misc/en.subject-01.png" alt="subj_01" width="700"/>
