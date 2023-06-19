@@ -1,7 +1,7 @@
 # CPP module 02
 
 Ad-hoc polymorphism, operator overloading \
-and Orthoox Canonical class form.
+and Orthodox Canonical class form.
 
 ## Subject
 
