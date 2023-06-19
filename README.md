@@ -12,7 +12,8 @@ Introduction to the c++ programming language.
   and Orthodox Canonical class form.
 - [module 03](./module_03) \
   Inheritance.
-- [module 04](./module_04)
+- [module 04](./module_04) \
+  Subtype polymorphism, abstract classes, interfaces.
 - [module 05](./module_05)
 - [module 06](./module_06)
 - [module 07](./module_07)

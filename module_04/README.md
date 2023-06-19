@@ -1,5 +1,7 @@
 # CPP module 04
 
+Subtype polymorphism, abstract classes, interfaces.
+
 ## Subject
 
 <img src="./misc/en.subject-01.png" alt="subj_01" width="700"/>
