@@ -10,7 +10,8 @@ Introduction to the c++ programming language.
 - [module 02](./module_02) \
   Ad-hoc polymorphism, operator overloading \
   and Orthodox Canonical class form.
-- [module 03](./module_03)
+- [module 03](./module_03) \
+  Inheritance.
 - [module 04](./module_04)
 - [module 05](./module_05)
 - [module 06](./module_06)
